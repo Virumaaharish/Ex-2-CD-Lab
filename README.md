@@ -1,7 +1,9 @@
 # Ex-2-GENERATION OF LEXICAL TOKENS LEX FLEX TOOL
 # AIM
 NAME : VIRUMAA HARISH M
+
 REF NO: 212223230246
+
 # To write a lex program to implement lexical analyzer to recognize a few patterns.
 # ALGORITHM
 
